@@ -3,7 +3,7 @@
  * author:        Oscar Sanchez (oms1005@gmail.com)
  * description:   a small tftp (trivial ftp) client program
 */
-// marcus
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
